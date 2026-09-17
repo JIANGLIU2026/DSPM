@@ -27,6 +27,13 @@ The key strategy of our method is illustrated as follows:
 │   │   │   ├── gsa.py
 │   │   │   ├── ocm.py
 │   │   │   ├── pcr.py
+│   │   ├── dspm       # our methods
+│   │   │   ├── er_dspm.py
+│   │   │   ├── er_dspmc.py
+│   │   │   ├── er_dspml.py
+│   │   │   ├── er_dspmlc.py
+│   │   │   ├── er_dspmt.py
+│   │   │   ├── er_dspmtc2.py
 │   │   ├── base.py
 │   │   ├── ce.py
 │   │   ├── mkd             # variations with MKD - EMA
